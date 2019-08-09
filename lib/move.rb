@@ -19,5 +19,6 @@ def move(board, position, char="X")
   board[position] = char
 end
 
-move(board, 0)
-display_board(board)
+
+#move(board, 0)
+#display_board(board)
